@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">Smart Home</string>
+    <string name="Refresh">refresh</string>
+    <string name="On">on</string>
+    <string name="Off">off</string>
+    <string name="Disconnect">disconnect</string>
+
 </resources>
